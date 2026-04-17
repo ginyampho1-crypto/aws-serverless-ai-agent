@@ -6,4 +6,4 @@ Resources:
   PropertyImagesBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: !Sub property-images-ai-agent-${AWS::739275446782}
+      BucketName: !Sub property-images-ai-agent-${AWS::Tiffany}
